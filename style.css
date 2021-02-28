@@ -1,0 +1,37 @@
+h1{
+	font-family: monospace;
+	background-color: black;
+	color: white;
+	padding: 2px;
+}
+h2{
+	color:  slateblue;
+}
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+hr{
+	width: 90%;
+}
+.special{
+	font-size: 20px;
+}
+.diary{
+	width:200;
+	height:200;
+}
+li a:hover {
+      margin:5px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 2px;
+}
+.card-title{
+	font-size: 20px;
+}
